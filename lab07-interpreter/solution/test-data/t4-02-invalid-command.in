@@ -1,0 +1,4 @@
+load
+load $0 foo bar baz
+elem $0 1234567 1234567
+exit
