@@ -1,5 +1,5 @@
 # C++ labs
 
-Here one can find my work during the first year at Higher school of Economics. 
+Here one can find my work for some labs during the first year at Higher School of Economics. 
 
-Solutions for labs are written on C++. 
+Solutions are written on C++. 
