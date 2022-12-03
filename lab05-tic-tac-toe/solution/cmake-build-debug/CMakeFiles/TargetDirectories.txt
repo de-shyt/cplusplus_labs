@@ -1,0 +1,5 @@
+/home/deshyt/Downloads/labs-de-shyt-lab05-tic-tac-toe/lab05-tic-tac-toe/solution/cmake-build-debug/CMakeFiles/tic-tac-toe.dir
+/home/deshyt/Downloads/labs-de-shyt-lab05-tic-tac-toe/lab05-tic-tac-toe/solution/cmake-build-debug/CMakeFiles/view-compact.dir
+/home/deshyt/Downloads/labs-de-shyt-lab05-tic-tac-toe/lab05-tic-tac-toe/solution/cmake-build-debug/CMakeFiles/view-pretty.dir
+/home/deshyt/Downloads/labs-de-shyt-lab05-tic-tac-toe/lab05-tic-tac-toe/solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deshyt/Downloads/labs-de-shyt-lab05-tic-tac-toe/lab05-tic-tac-toe/solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
