@@ -1,6 +1,6 @@
 # Lab №7 (interpreter)
 
-An interpreter for an assembler-like programming language. There are ten registers from $\$0$ to $\$9$. Each register saves a matrix of a random size with integers. 
+An interpreter for an assembler-like programming language. There are ten registers from $0$ to $9$. Each register saves a matrix of a random size with integers. 
 
 Possible commands:
 
@@ -66,11 +66,11 @@ The interpreter successfuly terminates.
 
 Gets two parameters: registers $A$ and $B$. Writes a result of $A + B$ to $A$.
 
-If sizes of matrixes are different, a message `Dimension mismatch: lhs=<A>, rhs=<B>` is shown, where `lhs` and `rhs` are ismismatched characteristics of matrixes. 
+If sizes of matrixes are different, a message `Dimension mismatch: lhs=<A>, rhs=<B>` is shown, where `lhs` and `rhs` are mismatched characteristics of matrixes. 
 
 
 
 #### `mul`
 Gets two parameters: registers $A$ and $B$. Writes a result of $A \cdot B$ to $A$. 
 
-If sizes of matrixes are different, a message `Dimension mismatch: lhs=<A>, rhs=<B>` is shown, where `lhs` and `rhs` are ismismatched characteristics of matrixes. 
+If sizes of matrixes are different, a message `Dimension mismatch: lhs=<A>, rhs=<B>` is shown, where `lhs` and `rhs` are mismatched characteristics of matrixes. 
