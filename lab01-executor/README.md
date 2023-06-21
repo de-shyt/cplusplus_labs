@@ -53,7 +53,7 @@ This task consists of 2 parts:
 
 2. ### Wanderer
 
-   A wanderer walks no the infinite plane. Initially, the wanderer is in `(0, 0)` and looks to the cell above them. 
+   A wanderer walks on the infinite plane. Initially, the wanderer is in `(0, 0)` and looks to the cell above them. 
 
    Commands allow to move forward and backward; turn around on 90 degrees to the left and to the right; show the map.
 
@@ -77,17 +77,17 @@ This task consists of 2 parts:
 
    Find a minimum rectangle which contains all cells visited by the wanderer. The cells are shown as symbols:
 
-   * `.` — клетка ещё не была посещена игроком;
-   * `o` — клетка была посещена игроком;
-   * `^`/`>`/`v`/`<` — игрок сейчас находится в этой клетке и смотрит наверх/направо/вниз/налево.
+   * `.` — the cell was not visited yet;
+   * `o` — the cell was already visited;
+   * `^`/`>`/`v`/`<` — the wanderer is now in the cell and looks upwards/to the right/ downwards/ to the left.
 
-   Reconding a sequnce of commands
+   #### Reconding a sequnce of commands
 
    
 
-   #### Macros
+   ##### Macros
 
-   The interpreter remembers only one macro -- the last recorded sequnce of commands. 
+   The interpreter remembers only one macro -- the last recorded sequence of commands. 
 
    We the recording is on, commands are read from `stdin`, saved to the macro and then a message `Recorded` is shown in `stdout`. 
 
